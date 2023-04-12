@@ -1,15 +1,16 @@
 .demo-card-wide.mdl-card {
-    width: 100%;
+    width: 90%;
  
   }
   .demo-card-wide > .mdl-card__title {
-    color: #fff;
+    color: #f0cccc;
     height: 176px;
     background: url('https://sun9-61.userapi.com/impf/tWmeOidm5H5Hcrd2QT7_R2UuI1XY7Q8hgQaDdw/enDxR4K0hTc.jpg?size=1590x400&quality=95&crop=0,0,1590,400&sign=93c1dd0cd98f4e56d10f88e3b20dd1f1&type=cover_group') center / cover;
     height: 400px;
  }
+ 
   .demo-card-wide > .mdl-card__menu {
-    color: #fff;
+    color: #e14949;
   }
 
   .demo-card-square.mdl-card {
