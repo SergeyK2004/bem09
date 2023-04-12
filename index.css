@@ -1,0 +1,24 @@
+.demo-card-wide.mdl-card {
+    width: 100%;
+ 
+  }
+  .demo-card-wide > .mdl-card__title {
+    color: #fff;
+    height: 176px;
+    background: url('https://sun9-61.userapi.com/impf/tWmeOidm5H5Hcrd2QT7_R2UuI1XY7Q8hgQaDdw/enDxR4K0hTc.jpg?size=1590x400&quality=95&crop=0,0,1590,400&sign=93c1dd0cd98f4e56d10f88e3b20dd1f1&type=cover_group') center / cover;
+    height: 400px;
+ }
+  .demo-card-wide > .mdl-card__menu {
+    color: #fff;
+  }
+
+  .demo-card-square.mdl-card {
+    max-width: 420px;
+    max-height: 420px;
+  }
+  .demo-card-square > .mdl-card__title {
+    color: #fff;
+    background:
+      url('https://sun9-53.userapi.com/impf/c824603/v824603548/12739a/73EKYCv4gv0.jpg?size=604x408&quality=96&sign=96efeb750c48edc762dce8e7cba9794b&type=album') bottom right 15% no-repeat #46B6AC;
+  }
+  
